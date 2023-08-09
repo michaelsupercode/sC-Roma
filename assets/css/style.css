@@ -204,3 +204,8 @@ footer p {
     font-family: 'Roboto', sans-serif;
     padding-bottom: 50px;
 }
+
+#rev {
+    margin: 5vh;
+    background-color: black;
+}
